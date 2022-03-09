@@ -1,7 +1,7 @@
 ### Hi there 👋
--✨ Proficent in Python, Linux stuff, hopefully go in a few months
--🌱 I’m currently learning: Go programming, C multithreading & Linux
--📫 How to reach me: illugi(att)illugi.com
+-✨ Proficent in Python, Linux stuff, hopefully go in a few months  
+-🌱 I’m currently learning: Go programming, C multithreading & Linux  
+-📫 How to reach me: illugi(att)illugi.com  
 <!--
 **Illugi317/Illugi317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
