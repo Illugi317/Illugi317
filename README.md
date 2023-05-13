@@ -1,7 +1,8 @@
 ### Hi there 👋
 -✨ Proficent in Python, Linux stuff, Networking & partly C  
--🌱 I’m currently learning: C++ & SDL, Go & Linux  
--🔭 I’m currently working on remaking the game Warcraft 2 game in C & SDL  
+-🌱 I’m currently learning: C & SDL, Go & Linux  
+-🔭 I’m currently working on remaking the game Warcraft 2 in C & SDL.
+-🔥 Currently very intrested in Bluetooth mesh networks & Hardware.
 -📫 How to reach me: illugi(att)illugi.com  
 <!--
 **Illugi317/Illugi317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
