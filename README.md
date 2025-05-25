@@ -1,6 +1,6 @@
 ### Hi there 👋
--✨ Proficient in Python & C, Linux, Networking  
--🌱 I’m currently learning: Zephyr & C  
+-✨ Proficient in Python & C/C++, Linux, Networking & AWS 
+-🌱 I’m currently learning: PCB design  
 -🔥 Currently very interested in Bluetooth, Hardware & Embedded.  
 -📫 How to reach me: illugi(att)illugi.com  
 <!--
